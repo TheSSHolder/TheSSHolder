@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I’m Stephan Holder
 
 - 🔍 I’m interested in developing my knowledge and bettering myself to the best of my abilities in the Data Science Field. I'm especially interested in hopefully playing a role in impacting the magic algorithm we know that we deal with everyday 🧙‍♂️
