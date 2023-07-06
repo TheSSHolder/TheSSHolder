@@ -9,6 +9,8 @@
 - 🤷‍♂️ Some random stuff about me: LOTR> Harry Potter (proven fact, don't fight it 😎), I love and have played football ⚽, tennis, video games and music 🎸(I've been playing guitar for almost 15 or 16 years now)
 
 ## 📚 Languages and Tools:
+[<img src= https://github.com/TheSSHolder/TheSSHolder/assets/137921641/043f640e-db10-4201-a3ae-d7039cef8eee>](https://www.r-project.org)
+
 
 <!---
 TheSSHolder/TheSSHolder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
