@@ -9,13 +9,15 @@
 - 🤷‍♂️ Some random stuff about me: LOTR> Harry Potter (proven fact, don't fight it 😎), I love and have played football ⚽, tennis, video games and music 🎸(I've been playing guitar for almost 15 or 16 years now)
 
 ## 📚 Languages and Tools:
+<div style="display:flex;justify-content:space-between;">
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="60" height="60"/> </a>
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/120px-RStudio_logo_flat.svg.png" alt="RStudio" width="110" height="60"/> </a>
+
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/120px-RStudio_logo_flat.svg.png" alt="RStudio" width="130" height="60"/> </a>
+
 <a href="https://cloud.google.com/bigquery" target="_blank"> <img src= "https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="60" height="60"/> </a>
+
 <a href="https://www.tableau.com/" target="_blank"> <img src="https://www.celge.fr/wp-content/uploads/2022/08/LOGO-TABLEAU-Benchmark-300x172.png" alt="Tableau" width="90" height="60"/> </a>
-
-[![MONKE](https://www.r-project.org/Rlogo.png)](https://www.r-project.org/){:target="_blank"}
-
+</div>
 
 <!---
 TheSSHolder/TheSSHolder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
